@@ -4,7 +4,8 @@ Este Projeto é um primeiro contato com flutter e comtem meu portfolio pessoal d
 
 A new Flutter project.
 
-![Alt text](assets\icons\Preview.png 'Title')
+![Preview](https://user-images.githubusercontent.com/23100449/151993550-cff07398-f205-4ea3-a0b1-24ceeef1fa9e.png)
+
 
 ## Getting Started
 
