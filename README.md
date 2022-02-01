@@ -1,5 +1,7 @@
 # primeiro_app
 
+Este Projeto é um primeiro contato com flutter;
+
 A new Flutter project.
 
 ## Getting Started
