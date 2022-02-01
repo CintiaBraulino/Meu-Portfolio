@@ -1,6 +1,6 @@
 # primeiro_app
 
-Este Projeto é um primeiro contato com flutter e comtem meu portfolio pessoal de maneira simples;
+Este Projeto é um primeiro contato com flutter e contem meu portfolio pessoal de maneira simples;
 
 A new Flutter project.
 
